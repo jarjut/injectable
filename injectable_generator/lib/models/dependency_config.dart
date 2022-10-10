@@ -2,7 +2,6 @@
 // to be used later when generating the register function
 
 import 'package:collection/collection.dart';
-import 'package:injectable/injectable.dart';
 import 'package:injectable_generator/models/module_config.dart';
 
 import '../injectable_types.dart';
